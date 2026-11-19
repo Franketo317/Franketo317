@@ -1,14 +1,15 @@
-<h1 align="center">Hola 👋 soy Franco / Franketo317 ✨ </h1> 
+
+<h1 align="center">Hola 👋 soy Franco / Franketo317 ✨</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@valacho9723" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.linkedin.com/in/franco-albarracin317" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:francoalbarracinls317@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:francoalbarracinls317@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -17,8 +18,8 @@
 <h1 align="center">Sobre mí 😃</h1>
 
 <div align="center">
-  🎓 <b>INGENIERO INFORMÁTICO</b><br>
-  💻 <b>Desarrollador full-stack e IA developer</b><br><br>
+  🎓 <b>Estudiante de Ingeniería de Sistemas</b><br>
+  💻 <b>Desarrollador Full-Stack e IA Developer</b><br><br>
   📫 Contacto: <b>francoalbarracinls317@gmail.com</b>
 </div>
 
@@ -26,8 +27,8 @@
 
 <h1 align="center">Tecnologías conocidas 👨🏻‍💻</h1>
 
-<!--tech stack icons-->
 <div align="center">
+
   <h3>Frontend</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind&theme=light" />
@@ -47,20 +48,32 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
   </a>
+
 </div>
 
 <br>
 
-<div align="center">
-  <h1> Mis estadísticas </h1> 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center"> 
-  <br>
-</div>
+<h1 align="center">📊 Mis estadísticas de GitHub</h1>
 
 <div align="center">
-<!--- stats & Trophy (start) -->
-  <a href="https://github.com/Franketo317">
-    <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Franketo317&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Franketo317&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+
+  <!-- Estadísticas generales -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Franketo317&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+
+  <!-- Lenguajes más utilizados -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franketo317&layout=compact&langs_count=8&theme=algolia" alt="Lenguajes más utilizados" />
+
+  <br><br>
+
+  <!-- Racha de contribuciones -->
+  <img width="70%" src="https://streak-stats.demolab.com?user=Franketo317&theme=algolia&hide_border=false" alt="Racha de contribuciones" />
+
+</div>
+
+<br>
+
+<h1 align="center">🐍 Mi actividad en GitHub</h1>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones de GitHub" />
 </div>
